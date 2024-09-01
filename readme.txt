@@ -2,11 +2,9 @@
 
 DESCRIPTION:
 
-ABSTRACT is a masonry HTML blog template. Its modern, clean design and nice
-typography makes it the perfect template for your blog site. The design is minimal, clean, 
-and makes great use of white space. It is fully responsive and retina ready. 
-It will look great, sharp and crisp on any devices and screen sizes. Also, The code behind 
-Abstract is clean and organized which makes it very easy to customize.
+SPURGEON is a clean and minimal free HTML blog template designed for lifestyle bloggers and 
+influencers. The thing you would love about it is its simplistic elegant design that emphasizes 
+your site's content. It makes your site visitors fall in love with your blog content. 
 
 ==================================================================================================
 
@@ -70,7 +68,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since ABSTRACT is distributed for free, support is not offered. FLARE is coded according 
+Since SPURGEON is distributed for free, support is not offered. SPURGEON is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -80,10 +78,11 @@ following tutorials:
  - http://learn.shayhowe.com/html-css/
 
 These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
+javascript in your skill-set, you can also check out these tutorials: 
 
- - https://code.tutsplus.com/courses/30-days-to-learn-jquery
- - https://code.tutsplus.com/courses/introduction-to-jquery
+ - https://www.codecademy.com/learn/introduction-to-javascript
+ - https://javascript.info/
+
 
 
 ------------------------------------------------------------------------------------------------------ 
@@ -105,22 +104,22 @@ I've used the following resources as listed.
 
 Fonts:
  - Inter Font (https://fonts.google.com/specimen/Inter)
- - Roboto Font (https://fonts.google.com/specimen/Roboto)
+ - Castoro Font (https://fonts.google.com/specimen/Castoro)
 
 Icons:
- - Iconmonstr (https://iconmonstr.com/)
  - Boxicons (https://boxicons.com/)
+ - Iconic (https://iconic.app/)
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
  
 Javascript Files:
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Slick slider (http://kenwheeler.github.io/slick/)
- - Prism JS (https://prismjs.com/)
- - Lity (https://sorgalla.com/lity/)
- - AjaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
+ - Swiper (https://swiperjs.com/)
+ - MoveTo.js (https://github.com/hsnaydd/moveTo)
+ - Prism.js (https://prismjs.com/)
+ - Masonry (https://masonry.desandro.com/)
+ - ImagesLoaded (https://imagesloaded.desandro.com/)
+ - scroll-lock (https://github.com/FL3NKEY/scroll-lock)
 
 -------------------------------------------------------------------------------------------------------
 
